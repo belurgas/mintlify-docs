@@ -22,6 +22,12 @@
             ]
           },
           {
+            "group": "О проекте",
+            "pages": [
+              "about/description"
+            ]
+          },
+          {
             "group": "Кастомизация",
             "pages": [
               "essentials/settings",

@@ -1,20 +1,20 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "SNAPPER BOOK",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/SNAPPER.png",
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Main",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Основы",
             "pages": [
               "index",
               "quickstart",
@@ -22,14 +22,14 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Кастомизация",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Как писать контент",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -38,7 +38,7 @@
             ]
           },
           {
-            "group": "AI tools",
+            "group": "AI",
             "pages": [
               "ai-tools/cursor",
               "ai-tools/claude-code",
@@ -48,7 +48,7 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "API документация",
         "groups": [
           {
             "group": "API documentation",
@@ -71,12 +71,12 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Аьвгдейка",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Blog",
+          "anchor": "Блок на глоке",
           "href": "https://mintlify.com/blog",
           "icon": "newspaper"
         }
@@ -90,13 +90,13 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
+        "label": "Помощь всегда тут",
         "href": "mailto:hi@mintlify.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
+      "label": "Дашбордик",
       "href": "https://dashboard.mintlify.com"
     }
   },

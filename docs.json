@@ -13,7 +13,7 @@
       "anchors": [
         {
           "anchor": "Xenon AI Robot",
-          "icon": "bot",
+          "icon": "robot",
           "href": "https://t.me/xenonairobot"
         },
         {
@@ -54,7 +54,7 @@
     "links": [
       {
         "label": "Помощь всегда тут",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:xenonsupport@atomicmail.io"
       }
     ],
     "primary": {

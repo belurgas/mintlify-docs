@@ -12,14 +12,14 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Аьвгдейка",
-          "icon": "book-open-cover",
-          "href": "https://mintlify.com/docs"
+          "anchor": "Xenon AI Robot",
+          "icon": "bot",
+          "href": "https://t.me/xenonairobot"
         },
         {
-          "anchor": "Блок на глоке",
+          "anchor": "Xenon AI Channel",
           "icon": "newspaper",
-          "href": "https://mintlify.com/blog"
+          "href": "https://t.me/xenonaiproject"
         }
       ]
     },
